@@ -50,14 +50,14 @@ display: inline-block;
 
 vertical-align: -3px;
 
-padding: 0  0  0 5px;
+padding: 1px  0  0 5px;
 
 }
 ```
 
 But as you might have noticed the only padding remaining is the left one so why the shorthand?
 
-It's because if we do padding-left then the padding of top is set to something other than 0 therefore hampering the alignment.
+It's because if we do padding-left then the padding of top is set to something other than 1px therefore hampering the alignment.
 
 This solution is already running in mobile and tablet screens, the same solution needs to be applied in Desktop. (Removal of bottom padding)
 
