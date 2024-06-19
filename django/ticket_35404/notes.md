@@ -63,4 +63,4 @@ This solution is already running in mobile and tablet screens, the same solution
 
 #### Difference and exact contribution
 
-![alt text](https://i.ibb.co/Q67Mf6H/Screenshot-2024-06-19-at-10-37-30-AM.png)
+[https://github.com/django/django/pull/18282](https://github.com/django/django/pull/18282/files?diff=unified&w=0)
